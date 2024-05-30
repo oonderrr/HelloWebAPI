@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basics", "Basics\Basics.csproj", "{D6E0A1D4-23A3-46A3-9EFB-4E57CF3E2316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWebAPI", "HelloWebAPI\HelloWebAPI.csproj", "{4AFF2BC0-23F6-4F38-8E62-5FFE62185E15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApp", "ProductApp\ProductApp.csproj", "{47256F82-3329-44C8-8639-E6074CDC6738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6E0A1D4-23A3-46A3-9EFB-4E57CF3E2316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E0A1D4-23A3-46A3-9EFB-4E57CF3E2316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E0A1D4-23A3-46A3-9EFB-4E57CF3E2316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E0A1D4-23A3-46A3-9EFB-4E57CF3E2316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AFF2BC0-23F6-4F38-8E62-5FFE62185E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AFF2BC0-23F6-4F38-8E62-5FFE62185E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AFF2BC0-23F6-4F38-8E62-5FFE62185E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AFF2BC0-23F6-4F38-8E62-5FFE62185E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47256F82-3329-44C8-8639-E6074CDC6738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47256F82-3329-44C8-8639-E6074CDC6738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47256F82-3329-44C8-8639-E6074CDC6738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47256F82-3329-44C8-8639-E6074CDC6738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
