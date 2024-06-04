@@ -11,8 +11,12 @@ builder.Logging.AddDebug();
 
 var app = builder.Build();
 
-app.MapControllers();
 app.UseSwagger();
 app.UseSwaggerUI();
+
+app.UseHttpsRedirection();
+app.UseAuthorization();
+
+app.MapControllers();
 
 app.Run();

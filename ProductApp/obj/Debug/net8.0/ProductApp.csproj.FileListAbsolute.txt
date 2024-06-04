@@ -31,3 +31,5 @@
 /Users/onder/Desktop/Dev/CSharp/HelloWorldAPI/ProductApp/obj/Debug/net8.0/ProductApp.pdb
 /Users/onder/Desktop/Dev/CSharp/HelloWorldAPI/ProductApp/obj/Debug/net8.0/ProductApp.genruntimeconfig.cache
 /Users/onder/Desktop/Dev/CSharp/HelloWorldAPI/ProductApp/obj/Debug/net8.0/ref/ProductApp.dll
+/Users/onder/Desktop/Dev/CSharp/HelloWorldAPI/ProductApp/bin/Debug/net8.0/appsettings.Production.json
+/Users/onder/Desktop/Dev/CSharp/HelloWorldAPI/ProductApp/obj/Debug/net8.0/ProductApp.sourcelink.json
